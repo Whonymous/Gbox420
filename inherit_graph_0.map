@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structAeroCommonTemplate.html" title="&lt; Shared between Command and Respone packages " alt="" coords="5,81,161,108"/>
+<area shape="rect" id="node2" href="$structAeroCommand.html" title="Max 32 bytes. Commands for both Aeroponics versions (With or without a pressure tank) ..." alt="" coords="230,5,339,32"/>
+<area shape="rect" id="node3" href="$structAeroModuleCommand.html" title="AeroModuleCommand" alt="" coords="209,56,360,83"/>
+<area shape="rect" id="node4" href="$structAeroModuleResponse.html" title="AeroModuleResponse" alt="" coords="209,107,360,133"/>
+<area shape="rect" id="node5" href="$structAeroResponse.html" title="Max 32 bytes. Template of the response sent back to the Transmitter. Both Transmitter and Receiver ne..." alt="" coords="231,157,339,184"/>
+</map>

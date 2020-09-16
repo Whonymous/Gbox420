@@ -1,0 +1,7 @@
+<map id="WeightSensor::getWeight" name="WeightSensor::getWeight">
+<area shape="rect" id="node2" href="$classHempyBucket.html#a11c26088512aba8c5230f0126c4ea5e1" title="Sets the relay controlling the pump. " alt="" coords="224,5,424,47"/>
+<area shape="rect" id="node4" href="$classHempyBucket.html#a320d8c126d30abb113f45f8c4bbcef47" title="HempyBucket::checkWatering\lFinished" alt="" coords="224,71,424,112"/>
+<area shape="rect" id="node6" href="$classWeightSensor__Web.html#aa47b67e39e6cbd1b543e482c94160a66" title="WeightSensor_Web::website\lEvent_Refresh" alt="" coords="229,136,419,177"/>
+<area shape="rect" id="node3" href="$classHempyBucket.html#ad9a11119072abf39b332556936938afa" title="HempyBucket::refresh\l_FiveSec" alt="" coords="487,5,640,47"/>
+<area shape="rect" id="node5" href="$classHempyBucket.html#a9218a31e84cebe1630ab8d22c41cc48d" title="HempyBucket::refresh_Sec" alt="" coords="472,78,655,105"/>
+</map>

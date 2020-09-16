@@ -1,0 +1,7 @@
+<map id="PHSensor_Web::websiteEvent_Refresh" name="PHSensor_Web::websiteEvent_Refresh">
+<area shape="rect" id="node2" href="$classCommon.html#a86553d0d8ffabfd97236aa54ca2ba8f1" title="When it return true the component belongs to this object. " alt="" coords="256,5,459,32"/>
+<area shape="rect" id="node3" href="$classPHSensor.html#afa1a5158732cd57ffb41ae089bf8850f" title="PHSensor::getPHText" alt="" coords="281,56,434,83"/>
+<area shape="rect" id="node4" href="$classRollingAverage.html#aab001a981060af0948bd8b46c05c8e97" title="RollingAverage::getFloatText" alt="" coords="507,56,697,83"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="799,31,857,57"/>
+<area shape="rect" id="node6" href="$classRollingAverage.html#ada0ea15c7152230f9433329fba92d3f8" title="by default return the average, if false is passed return the latest reading " alt="" coords="745,81,911,108"/>
+</map>

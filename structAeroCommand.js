@@ -1,0 +1,27 @@
+var structAeroCommand =
+[
+    [ "AeroCommand", "structAeroCommand.html#a0ed9ba7ecb2175f17b849758a035a6f6", null ],
+    [ "AeroCommand", "structAeroCommand.html#ae4f193bd511b44e1b31b7f7dc699259f", null ],
+    [ "AeroCommand", "structAeroCommand.html#a0ed9ba7ecb2175f17b849758a035a6f6", null ],
+    [ "AeroCommand", "structAeroCommand.html#ae4f193bd511b44e1b31b7f7dc699259f", null ],
+    [ "AeroCommand", "structAeroCommand.html#a0ed9ba7ecb2175f17b849758a035a6f6", null ],
+    [ "AeroCommand", "structAeroCommand.html#ae4f193bd511b44e1b31b7f7dc699259f", null ],
+    [ "DayDuration", "structAeroCommand.html#ace4413cb57eb35bcc0bae273ded00fa5", null ],
+    [ "DayInterval", "structAeroCommand.html#ae358ce0a1d6674b75aa0d2aff9088d90", null ],
+    [ "DayMode", "structAeroCommand.html#a48a7ce24f944a1eea8780a085514810b", null ],
+    [ "MaxPressure", "structAeroCommand.html#aef46e4e69108b4bf33920daeb6d4eacc", null ],
+    [ "MinPressure", "structAeroCommand.html#ac870de1ceb5fe1cfc46a32104e42d901", null ],
+    [ "MixReservoir", "structAeroCommand.html#a1a1c78caaecb5e788f199e386ac51308", null ],
+    [ "NightDuration", "structAeroCommand.html#ad0b663094b60d9e7c542892fbd93d68b", null ],
+    [ "NightInterval", "structAeroCommand.html#ab11e21641a211b8d8e77a91b4e69500a", null ],
+    [ "PumpDisable", "structAeroCommand.html#a493d636679872fa1cdc6e6640896063d", null ],
+    [ "PumpOff", "structAeroCommand.html#a3c62f6b829a3db63c5b12cf179e0e9a7", null ],
+    [ "PumpOn", "structAeroCommand.html#adec7558a4bdc03200f2efb32daaaee13", null ],
+    [ "PumpPrimingTime", "structAeroCommand.html#a5221dd187171d43705f487e31ddf0d09", null ],
+    [ "PumpTimeOut", "structAeroCommand.html#a166f075e1dda5dd24a08a2208afa0b49", null ],
+    [ "RefillPressureTank", "structAeroCommand.html#a2f6bef583cb5b0d17500c5164391be6b", null ],
+    [ "SprayDisabled", "structAeroCommand.html#ab4a7641d6a7c15c35f2eefab84559c9f", null ],
+    [ "SprayEnabled", "structAeroCommand.html#a525e8ba2b592461037fa9ae7bd2520db", null ],
+    [ "SprayNow", "structAeroCommand.html#a9e1fac054fe49f9ddf700b236ed50fec", null ],
+    [ "SprayOff", "structAeroCommand.html#aff3712fe50af7e4efa76834d01deea81", null ]
+];

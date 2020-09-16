@@ -1,0 +1,11 @@
+<map id="HempyModule_Web::websiteEvent_Refresh" name="HempyModule_Web::websiteEvent_Refresh">
+<area shape="rect" id="node2" href="$classCommon.html#a86553d0d8ffabfd97236aa54ca2ba8f1" title="When it return true the component belongs to this object. " alt="" coords="247,5,449,32"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a0c97bfe0748519233b3a087775ba6521" title="toText_onlineStatus" alt="" coords="279,56,417,83"/>
+<area shape="rect" id="node4" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a16cea647c358524dcff92bd8056f6ff8" title="toText_weight" alt="" coords="296,107,400,133"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a43176c6813f3b76da4af8e358665b707" title="toText_pumpState" alt="" coords="283,157,413,184"/>
+<area shape="rect" id="node6" href="$classHempyModule__Web.html#a8e4738399c670dd2e626a24094f4c140" title="HempyModule_Web::website\lEvent_Button" alt="" coords="251,209,445,250"/>
+<area shape="rect" id="node7" href="$classCommon.html#a0192d295366bf1e966d8b58a3ce57554" title="Common::isThisMyComponent" alt="" coords="247,275,449,301"/>
+<area shape="rect" id="node9" href="$classModule__Web.html#a54a0a2a3106a9068aa0d15b592602601" title="Module_Web::addToLog" alt="" coords="267,325,429,352"/>
+<area shape="rect" id="node10" href="$classHempyModule__Web.html#a4706304785df1a48f6500171983d3364" title="HempyModule_Web::website\lEvent_Field" alt="" coords="251,377,445,418"/>
+<area shape="rect" id="node8" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="497,275,592,301"/>
+</map>

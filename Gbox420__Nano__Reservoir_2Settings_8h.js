@@ -1,0 +1,47 @@
+var Gbox420__Nano__Reservoir_2Settings_8h =
+[
+    [ "Settings", "structSettings.html", "structSettings" ],
+    [ "DHTSensorSettings", "structSettings_1_1DHTSensorSettings.html", "structSettings_1_1DHTSensorSettings" ],
+    [ "PHSensorSettings", "structSettings_1_1PHSensorSettings.html", "structSettings_1_1PHSensorSettings" ],
+    [ "ReservoirModuleSettings", "structSettings_1_1ReservoirModuleSettings.html", null ],
+    [ "SoundSettings", "structSettings_1_1SoundSettings.html", "structSettings_1_1SoundSettings" ],
+    [ "WaterTempSensorSettings", "structSettings_1_1WaterTempSensorSettings.html", "structSettings_1_1WaterTempSensorSettings" ],
+    [ "WeightSensorSettings", "structSettings_1_1WeightSensorSettings.html", "structSettings_1_1WeightSensorSettings" ],
+    [ "PumpStates", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844", [
+      [ "DISABLED", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a40f39385238042f6ec0cbac821a19fc4", null ],
+      [ "IDLE", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844afd6a0e4343048b10646dd2976cc5ad18", null ],
+      [ "PRIMING", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a59b2e3b4f3bb05e35cd3a7062dc3a2a0", null ],
+      [ "RUNNING", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a1061be6c3fb88d32829cba6f6b2be304", null ],
+      [ "BLOWOFF", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a161fa48b5157298e551ce4a243273b90", null ],
+      [ "MIXING", "Gbox420__Mega__Main_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a61f5ad486f2c1cc06d64e9a3e92c42e1", null ],
+      [ "DISABLED", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a40f39385238042f6ec0cbac821a19fc4", null ],
+      [ "IDLE", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844afd6a0e4343048b10646dd2976cc5ad18", null ],
+      [ "PRIMING", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a59b2e3b4f3bb05e35cd3a7062dc3a2a0", null ],
+      [ "RUNNING", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a1061be6c3fb88d32829cba6f6b2be304", null ],
+      [ "BLOWOFF", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a161fa48b5157298e551ce4a243273b90", null ],
+      [ "MIXING", "Gbox420__Nano__Aero_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a61f5ad486f2c1cc06d64e9a3e92c42e1", null ],
+      [ "DISABLED", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a40f39385238042f6ec0cbac821a19fc4", null ],
+      [ "IDLE", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844afd6a0e4343048b10646dd2976cc5ad18", null ],
+      [ "PRIMING", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a59b2e3b4f3bb05e35cd3a7062dc3a2a0", null ],
+      [ "RUNNING", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a1061be6c3fb88d32829cba6f6b2be304", null ],
+      [ "BLOWOFF", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a161fa48b5157298e551ce4a243273b90", null ],
+      [ "MIXING", "Gbox420__Nano__Hempy_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a61f5ad486f2c1cc06d64e9a3e92c42e1", null ],
+      [ "DISABLED", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a40f39385238042f6ec0cbac821a19fc4", null ],
+      [ "IDLE", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844afd6a0e4343048b10646dd2976cc5ad18", null ],
+      [ "PRIMING", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a59b2e3b4f3bb05e35cd3a7062dc3a2a0", null ],
+      [ "RUNNING", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a1061be6c3fb88d32829cba6f6b2be304", null ],
+      [ "BLOWOFF", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a161fa48b5157298e551ce4a243273b90", null ],
+      [ "MIXING", "Gbox420__Nano__Reservoir_2Settings_8h.html#ab1e4abae0c5089eb7e26e1cd9a5fc844a61f5ad486f2c1cc06d64e9a3e92c42e1", null ]
+    ] ],
+    [ "ReservoirState", "Gbox420__Nano__Reservoir_2Settings_8h.html#a758a4428a994f7ffb015f840f863b1d1", [
+      [ "EMPTY", "Gbox420__Nano__Reservoir_2Settings_8h.html#a758a4428a994f7ffb015f840f863b1d1a2f0d18fc0d0fa4a6cd92dc328501874d", null ],
+      [ "LEVEL_LOW", "Gbox420__Nano__Reservoir_2Settings_8h.html#a758a4428a994f7ffb015f840f863b1d1a1541ce26187ac34e3e99559669751cf5", null ],
+      [ "OK", "Gbox420__Nano__Reservoir_2Settings_8h.html#a758a4428a994f7ffb015f840f863b1d1a2bc49ec37d6a5715dd23e85f1ff5bb59", null ]
+    ] ],
+    [ "loadSettings", "Gbox420__Nano__Reservoir_2Settings_8h.html#ad971c9812747afb3057cd98892437c13", null ],
+    [ "restoreDefaults", "Gbox420__Nano__Reservoir_2Settings_8h.html#ac6ea025bbd7c07eb499581c99b13ed58", null ],
+    [ "saveSettings", "Gbox420__Nano__Reservoir_2Settings_8h.html#ac0ce9cbac65602e667e78fe16e0d51fe", null ],
+    [ "CurrentTime", "Gbox420__Nano__Reservoir_2Settings_8h.html#a197fc7fece7964f371e3331919d596bb", null ],
+    [ "LongMessage", "Gbox420__Nano__Reservoir_2Settings_8h.html#a29e392d833e97bf88f780e9fdf22373f", null ],
+    [ "ShortMessage", "Gbox420__Nano__Reservoir_2Settings_8h.html#a6084d34751a3c3b5585d06dc1c0dd9f6", null ]
+];

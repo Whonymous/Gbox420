@@ -1,0 +1,6 @@
+<map id="WaterPump" name="WaterPump">
+<area shape="rect" id="node2" href="$classCommon.html" title="Common" alt="" coords="201,5,276,32"/>
+<area shape="rect" id="node3" href="$classSwitch.html" title="Switch class: Represents and electronic switch like a Relay or MOSFET. " alt="" coords="113,153,175,180"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="207,153,271,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="536,257,595,284"/>
+</map>

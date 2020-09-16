@@ -1,0 +1,8 @@
+<map id="PHSensor_Web::websiteEvent_Button" name="PHSensor_Web::websiteEvent_Button">
+<area shape="rect" id="node2" href="$classCommon.html#a0192d295366bf1e966d8b58a3ce57554" title="Common::isThisMyComponent" alt="" coords="256,5,459,32"/>
+<area shape="rect" id="node4" href="$classPHSensor.html#aefd9f4f73636b8827a22b8246cbc4dee" title="PHSensor::updatePH" alt="" coords="283,81,431,108"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="760,43,855,69"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="580,43,639,69"/>
+<area shape="rect" id="node6" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="545,93,674,120"/>
+<area shape="rect" id="node7" href="$classRollingAverage.html#aa1fd09fa8d80046179ed7ed91bfed6d0" title="RollingAverage::updateAverage" alt="" coords="507,144,712,171"/>
+</map>

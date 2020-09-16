@@ -1,0 +1,51 @@
+<map id="Module::getSoundObject" name="Module::getSoundObject">
+<area shape="rect" id="node2" href="$classModule.html#a79c2d0237995c6680a490f8a9c678fec" title="Module::setDebug" alt="" coords="259,212,387,239"/>
+<area shape="rect" id="node6" href="$classModule.html#a966279a6ac1ac3f0dcd17859a94e18c9" title="Module::setMetric" alt="" coords="260,296,387,323"/>
+<area shape="rect" id="node7" href="$classFan.html#af5a22c8800d5a4f3295f44a313af71d2" title="Fan::TurnOff" alt="" coords="275,1000,371,1027"/>
+<area shape="rect" id="node9" href="$classFan.html#a817f97adfe3990ef302f49359b3237f7" title="Fan::SetLowSpeed" alt="" coords="257,1051,390,1077"/>
+<area shape="rect" id="node10" href="$classFan.html#ad462f4c80b5024a1266e0a070527425e" title="Fan::SetHighSpeed" alt="" coords="255,1101,391,1128"/>
+<area shape="rect" id="node11" href="$classLights.html#a482dc659480f840747858394c5baec3c" title="Temporary dim the lights while working on the plants. " alt="" coords="245,1152,401,1179"/>
+<area shape="rect" id="node14" href="$classLights.html#ab18f05b043b61b6eb74bd7b564e1a1ec" title="Lights::setLightOnOff" alt="" coords="250,1203,397,1229"/>
+<area shape="rect" id="node17" href="$classLights.html#a3c5051babf4dacdeecced14217f6f886" title="Lights::setTimerOnOff" alt="" coords="771,1219,922,1245"/>
+<area shape="rect" id="node18" href="$classLightSensor.html#a50559883ebb2c80a5d2144a6453bd1c3" title="LightSensor::triggerCalibration" alt="" coords="487,1371,685,1397"/>
+<area shape="rect" id="node20" href="$classLights.html#ada0e53ffae21eb386b8cef9e6a12fb8c" title="Lights::setOnMinute" alt="" coords="254,1405,393,1432"/>
+<area shape="rect" id="node22" href="$classLights.html#afc2ad84d3e1c4d9e8f62d05791f82928" title="Lights::setOffMinute" alt="" coords="253,1456,393,1483"/>
+<area shape="rect" id="node23" href="$classLights.html#ac6d200fd34e102cea67cf24d4f017284" title="Enable/disable slowly fadeing in and out the lights when the Status changes. " alt="" coords="250,1507,397,1533"/>
+<area shape="rect" id="node24" href="$classLights.html#a71359e2b1cb0629287aa6bf51973cbd0" title="Set the Percentage of change at one increment/decrement. " alt="" coords="235,1355,412,1381"/>
+<area shape="rect" id="node25" href="$classMainModule.html#ae0b9ebcc9015f37993766a3a39c4e710" title="Returns true if the lights are on or daylight is detected. " alt="" coords="236,1557,411,1584"/>
+<area shape="rect" id="node26" href="$classMainModule.html#af579c539beb7471a55975549522b6a98" title="MainModule::reportToGoogle\lSheetsTrigger" alt="" coords="229,1609,418,1650"/>
+<area shape="rect" id="node27" href="$classAeroponics.html#a1016543b9eb0ee23d4270b5b5a13eced" title="Aeroponics::setDayMode" alt="" coords="501,107,671,133"/>
+<area shape="rect" id="node28" href="$classAeroponics.html#a04487f7adcf5cb4bad539a267f996cff" title="Aeroponics::setDayInterval" alt="" coords="496,376,676,403"/>
+<area shape="rect" id="node29" href="$classAeroponics.html#a3999dfc4092ba01c89745e41743c06c6" title="Aeroponics::setNightInterval" alt="" coords="493,544,679,571"/>
+<area shape="rect" id="node30" href="$classAeroponics.html#ac223aca5870a27e3050f5e3c55bb6fe7" title="Aeroponics::setDayDuration" alt="" coords="493,595,679,621"/>
+<area shape="rect" id="node31" href="$classAeroponics.html#a3d783f5847d94605efc38c3cdd7c918b" title="Aeroponics::setNightDuration" alt="" coords="489,645,683,672"/>
+<area shape="rect" id="node32" href="$classAeroponics.html#a459d83fc32d3369938be2953138c9b96" title="Aeroponics::setSprayOnOff" alt="" coords="495,696,677,723"/>
+<area shape="rect" id="node33" href="$classAeroponics.html#a81cee647fe16d146a574592441d3ef59" title="Aeroponics::setMaxPressure" alt="" coords="491,747,681,773"/>
+<area shape="rect" id="node34" href="$classAeroponics__NoTank.html#af7be37cf20fc3af632879e93d4a1ca15" title="Aeroponics_NoTank::\lsprayNow" alt="" coords="512,478,660,519"/>
+<area shape="rect" id="node35" href="$classAeroponics__Tank.html#a5770080bacf50e9e02fa6b431016d47a" title="Aeroponics_Tank::sprayNow" alt="" coords="491,797,681,824"/>
+<area shape="rect" id="node36" href="$classAeroponics__Tank.html#a7436a7c296a4c0899c87e5a8554b5bdc" title="Aeroponics_Tank::sprayOff" alt="" coords="495,848,677,875"/>
+<area shape="rect" id="node37" href="$classWaterPump.html#ac5356119ca29c80c861208cc4a31eb2f" title="Turn the pump ON. " alt="" coords="244,443,403,469"/>
+<area shape="rect" id="node38" href="$classWaterPump.html#aa302ba1406dfa730d00626d67f5287a1" title="Turn the pump OFF. " alt="" coords="507,899,665,925"/>
+<area shape="rect" id="node39" href="$classWaterPump.html#a95644a76e18a9449d48d7a955de27b42" title="Disable the pump. " alt="" coords="499,949,673,976"/>
+<area shape="rect" id="node40" href="$classWaterPump.html#a5a19d3864c6ea0b02c6a22b49a433560" title="WaterPump::startMixing" alt="" coords="505,5,667,32"/>
+<area shape="rect" id="node41" href="$classWaterPump.html#ad76d8b9d14b6f0848c13401ec9dec308" title="WaterPump::turnBypassOn" alt="" coords="232,1675,415,1701"/>
+<area shape="rect" id="node42" href="$classWaterPump.html#aaf844a5321a54fb8921c4c452b06e4cd" title="WaterPump::turnBypassOff" alt="" coords="232,1725,415,1752"/>
+<area shape="rect" id="node43" href="$classWaterPump.html#a12dd5123484650fad0eafd439e37b4e1" title="WaterPump::setPrimingTime" alt="" coords="491,56,681,83"/>
+<area shape="rect" id="node44" href="$classHempyBucket.html#a3de27d18b65ceb8432ca6b6cf5703f42" title="HempyBucket::setWeightBased\lWatering" alt="" coords="219,1777,428,1818"/>
+<area shape="rect" id="node45" href="$classHempyBucket.html#af4c3814f1f9b37509c8ab6ea783df11f" title="HempyBucket::setStartWeight" alt="" coords="223,1843,423,1869"/>
+<area shape="rect" id="node46" href="$classHempyBucket.html#a9bbca063669c259010c94c22042c8315" title="HempyBucket::setStopWeight" alt="" coords="224,1893,423,1920"/>
+<area shape="rect" id="node47" href="$classHempyBucket.html#a90384d26cc83b6bb4206189581203bfe" title="HempyBucket::setTimerBased\lWatering" alt="" coords="223,1945,424,1986"/>
+<area shape="rect" id="node48" href="$classHempyBucket.html#a27385ed320e608e36e71b75f8c81ac4d" title="HempyBucket::setWatering\lInterval" alt="" coords="232,2010,415,2051"/>
+<area shape="rect" id="node49" href="$classHempyBucket.html#afe7c6467a6141f6e10f48970c6db9e9a" title="HempyBucket::setWatering\lDuration" alt="" coords="232,2075,415,2117"/>
+<area shape="rect" id="node50" href="$classDEVModule__Web.html#af53c52f8cc8d23d53fc1f652b740279a" title="DEVModule_Web::refresh\l_QuarterHour" alt="" coords="236,2141,411,2182"/>
+<area shape="rect" id="node3" href="$classAeroModule.html#a6465def68343e695ae91ba01c714858d" title="AeroModule::processCommand" alt="" coords="744,544,949,571"/>
+<area shape="rect" id="node4" href="$classHempyModule.html#a5578f429742c4685b52d599409da88ea" title="HempyModule::processCommand" alt="" coords="476,208,696,235"/>
+<area shape="rect" id="node5" href="$classReservoirModule.html#ae24b22ae6329eca6b7c5ef7d25461318" title="ReservoirModule::process\lCommand" alt="" coords="499,259,673,301"/>
+<area shape="rect" id="node8" href="$classFan__Web.html#a2741ea624a781febbd4f3e2bf82c89ed" title="Fan_Web::websiteEvent\l_Button" alt="" coords="503,1001,669,1042"/>
+<area shape="rect" id="node12" href="$classLights.html#adf24f09eb5273aad8eea4839f052c95e" title="Lights::checkDimming" alt="" coords="510,1067,662,1093"/>
+<area shape="rect" id="node13" href="$classLights__Web.html#a2437d22a7e8b027c4d08d209675f5db9" title="Lights_Web::websiteEvent\l_Button" alt="" coords="997,1161,1176,1202"/>
+<area shape="rect" id="node15" href="$classLights.html#a48acde7f45e4b9b22969e52fea689040" title="constructor " alt="" coords="536,1269,636,1296"/>
+<area shape="rect" id="node16" href="$classLights.html#a2117d6df0bdbf234e627a9bceb000071" title="Lights::checkTimer" alt="" coords="519,1219,653,1245"/>
+<area shape="rect" id="node19" href="$classLightSensor__Web.html#abedb4cd4454f322ebbd7c3753bcd2a73" title="LightSensor_Web::website\lEvent_Button" alt="" coords="757,1363,936,1405"/>
+<area shape="rect" id="node21" href="$classLights__Web.html#a8e4f0fc6e2cba4303c306910b9c9ac86" title="Lights_Web::websiteEvent\l_Field" alt="" coords="497,1435,675,1477"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="toText_percentage" name="toText_percentage">
+<area shape="rect" id="node2" href="$classDHTSensor.html#a9770b8c3dddf36a7ebbd39f6135c2bb8" title="DHTSensor::getHumidityText" alt="" coords="184,60,379,87"/>
+<area shape="rect" id="node7" href="$classLights.html#a68fc62af07d71db2fb5a436e11ecad3c" title="Lights::report" alt="" coords="232,115,331,141"/>
+<area shape="rect" id="node8" href="$classReservoirModule__Web.html#a9fff8b64d0097491d7ee36d4cf03ebd6" title="not used " alt="" coords="204,166,359,207"/>
+<area shape="rect" id="node10" href="$classReservoirModule__Web.html#a435bceed806f4615668ce99630648c93" title="constructor " alt="" coords="200,231,363,273"/>
+<area shape="rect" id="node3" href="$classDHTSensor.html#a2ef11882c3401c097b7a08e4b35eb103" title="DHTSensor::report" alt="" coords="469,5,601,32"/>
+<area shape="rect" id="node4" href="$classDHTSensor__Web.html#a68071e155b60a81ff19df8ae1bd36893" title="Not used. " alt="" coords="427,56,644,83"/>
+<area shape="rect" id="node6" href="$classDHTSensor__Web.html#ad02a0f5edd3f948ae81f9ebe6032d443" title="DHTSensor_Web::websiteEvent\l_Refresh" alt="" coords="429,107,641,149"/>
+<area shape="rect" id="node5" href="$classDHTSensor__Web.html#a1bd32356da7d365f165a05475fcc1877" title="Not used. " alt="" coords="692,49,904,90"/>
+<area shape="rect" id="node9" href="$classReservoirModule__Web.html#a3a3bd1a24f5df21cac157a726d65f7fe" title="not used " alt="" coords="458,173,613,214"/>
+</map>

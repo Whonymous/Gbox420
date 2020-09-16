@@ -1,0 +1,11 @@
+<map id="MainModule::refresh_QuarterHour" name="MainModule::refresh_QuarterHour">
+<area shape="rect" id="node2" href="$classCommon.html#aa7222229739c89d441fadd6a40deff89" title="Common::refresh_QuarterHour" alt="" coords="193,40,395,67"/>
+<area shape="rect" id="node4" href="$classMainModule.html#af579c539beb7471a55975549522b6a98" title="MainModule::reportToGoogle\lSheetsTrigger" alt="" coords="199,150,389,191"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="692,69,787,96"/>
+<area shape="rect" id="node5" href="$classModule__Web.html#a3bbe46c867c2d15f62ee6aa582b0bd56" title="Google Sheets functions. " alt="" coords="445,33,642,74"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html#a6c2e0946d266ef2a3afe17b9869381cb" title="Common_Web::reportToJSON" alt="" coords="443,99,644,125"/>
+<area shape="rect" id="node7" href="$classModule__Web.html#a36f0880e022ca1e06cdb9e0a126849aa" title="Module_Web::relayToGoogle\lSheets" alt="" coords="448,150,639,191"/>
+<area shape="rect" id="node8" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="461,216,626,243"/>
+<area shape="rect" id="node9" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="471,267,616,293"/>
+<area shape="rect" id="node10" href="$classModule__Web.html#a54a0a2a3106a9068aa0d15b592602601" title="Module_Web::addToLog" alt="" coords="462,317,625,344"/>
+</map>

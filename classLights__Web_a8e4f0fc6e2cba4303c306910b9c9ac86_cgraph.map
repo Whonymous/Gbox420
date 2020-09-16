@@ -1,0 +1,18 @@
+<map id="Lights_Web::websiteEvent_Field" name="Lights_Web::websiteEvent_Field">
+<area shape="rect" id="node2" href="$classCommon.html#a0192d295366bf1e966d8b58a3ce57554" title="Common::isThisMyComponent" alt="" coords="457,8,660,34"/>
+<area shape="rect" id="node4" href="$classLights.html#a20392486d66032fd530046cd1f33aaa0" title="Lights::setBrightness" alt="" coords="248,58,393,85"/>
+<area shape="rect" id="node7" href="$classLights.html#aee95c9b14f3b1886a755d7d818b0cbf2" title="Lights::setOnHour" alt="" coords="257,362,385,389"/>
+<area shape="rect" id="node8" href="$classLights.html#ada0e53ffae21eb386b8cef9e6a12fb8c" title="Lights::setOnMinute" alt="" coords="251,160,390,186"/>
+<area shape="rect" id="node11" href="$classLights.html#a561b79359ab51821048e9d9bc30fc164" title="Lights::setOffHour" alt="" coords="256,413,385,440"/>
+<area shape="rect" id="node12" href="$classLights.html#afc2ad84d3e1c4d9e8f62d05791f82928" title="Lights::setOffMinute" alt="" coords="251,210,391,237"/>
+<area shape="rect" id="node13" href="$classLights.html#ac6d200fd34e102cea67cf24d4f017284" title="Enable/disable slowly fadeing in and out the lights when the Status changes. " alt="" coords="247,312,394,338"/>
+<area shape="rect" id="node15" href="$classLights.html#a71359e2b1cb0629287aa6bf51973cbd0" title="Set the Percentage of change at one increment/decrement. " alt="" coords="232,261,409,288"/>
+<area shape="rect" id="node16" href="$classLights.html#a8e9786fcb743a468232c6f314d5bc5bc" title="Set how often to increase/decrease the Brightness. " alt="" coords="243,464,398,490"/>
+<area shape="rect" id="node17" href="$classLights.html#a88aef6611519ff083000476c078b9fba" title="Set the duration of the temporary dimming in Seconds. " alt="" coords="243,109,399,136"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="708,84,803,110"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="529,58,588,85"/>
+<area shape="rect" id="node6" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="494,160,623,186"/>
+<area shape="rect" id="node9" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="476,210,641,237"/>
+<area shape="rect" id="node10" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="486,261,631,288"/>
+<area shape="rect" id="node14" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="485,312,632,338"/>
+</map>

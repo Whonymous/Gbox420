@@ -1,0 +1,14 @@
+<map id="HempyBucket::refresh_FiveSec" name="HempyBucket::refresh_FiveSec">
+<area shape="rect" id="node2" href="$classCommon.html#a604ab36b3a1d9a5bcfcb225149c82f90" title="Common::refresh_FiveSec" alt="" coords="217,19,396,46"/>
+<area shape="rect" id="node4" href="$classHempyBucket.html#a11c26088512aba8c5230f0126c4ea5e1" title="Sets the relay controlling the pump. " alt="" coords="207,142,407,184"/>
+<area shape="rect" id="node13" href="$classHempyBucket.html#a65d4aa72cbe7ea2dbecd008a3a59bc9e" title="HempyBucket::checkWatering\lTimer" alt="" coords="207,269,407,310"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="915,124,1009,151"/>
+<area shape="rect" id="node5" href="$classWeightSensor.html#ac4a6f05281cc7fa0c602e2f0b2efdbaa" title="WeightSensor::readWeight" alt="" coords="463,74,641,100"/>
+<area shape="rect" id="node6" href="$classWeightSensor.html#a00d85fab4422a569a3f475d0586af926" title="WeightSensor::getWeight" alt="" coords="467,124,637,151"/>
+<area shape="rect" id="node7" href="$classWaterPump.html#a2d33b70fa52c5a470097fdb02ca41d26" title="Pump ON(1)/OFF(0) " alt="" coords="469,175,635,202"/>
+<area shape="rect" id="node8" href="$classWaterPump.html#a62515aeb4013fa15ee5c26b4b3f38daa" title="Pump ENABLED(1)/DISABLED(0) " alt="" coords="455,226,649,252"/>
+<area shape="rect" id="node9" href="$classWaterPump.html#ac5356119ca29c80c861208cc4a31eb2f" title="Turn the pump ON. " alt="" coords="473,276,631,303"/>
+<area shape="rect" id="node10" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="699,175,865,202"/>
+<area shape="rect" id="node11" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="709,226,855,252"/>
+<area shape="rect" id="node12" href="$classWaterPump.html#af13332f6353f18c12a15067edc0c3ca8" title="WaterPump::updateState" alt="" coords="697,276,867,303"/>
+</map>

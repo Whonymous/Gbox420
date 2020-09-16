@@ -1,0 +1,9 @@
+<map id="PHSensor_Web" name="PHSensor_Web">
+<area shape="rect" id="node2" href="$classPHSensor.html" title="PHSensor" alt="" coords="6,360,88,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="495,5,570,32"/>
+<area shape="rect" id="node5" href="$classModule.html" title="Module" alt="" coords="500,153,564,180"/>
+<area shape="rect" id="node6" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="704,360,763,387"/>
+<area shape="rect" id="node7" href="$classCommon__Web.html" title="Common_Web" alt="" coords="187,153,296,180"/>
+<area shape="rect" id="node4" href="$classRollingAverage.html" title="Rolling average tracker for smoothing sensor readings. Supports float and int values only..." alt="" coords="52,153,162,180"/>
+<area shape="rect" id="node8" href="$classModule__Web.html" title="Module_Web" alt="" coords="276,360,375,387"/>
+</map>

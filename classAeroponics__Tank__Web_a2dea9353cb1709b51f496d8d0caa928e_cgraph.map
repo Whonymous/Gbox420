@@ -1,0 +1,16 @@
+<map id="Aeroponics_Tank_Web::websiteEvent_Button" name="Aeroponics_Tank_Web::websiteEvent_Button">
+<area shape="rect" id="node2" href="$classCommon.html#a0192d295366bf1e966d8b58a3ce57554" title="Common::isThisMyComponent" alt="" coords="211,436,413,463"/>
+<area shape="rect" id="node4" href="$classAeroponics__Tank.html#a95906ab4c83355062f26e898edbc2337" title="Aeroponics_Tank::refillTank" alt="" coords="220,208,404,235"/>
+<area shape="rect" id="node10" href="$classAeroponics.html#a459d83fc32d3369938be2953138c9b96" title="Aeroponics::setSprayOnOff" alt="" coords="465,157,648,184"/>
+<area shape="rect" id="node12" href="$classAeroponics__Tank.html#a5770080bacf50e9e02fa6b431016d47a" title="Aeroponics_Tank::sprayNow" alt="" coords="461,259,652,285"/>
+<area shape="rect" id="node14" href="$classAeroponics__Tank.html#a7436a7c296a4c0899c87e5a8554b5bdc" title="Aeroponics_Tank::sprayOff" alt="" coords="466,309,647,336"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="917,259,1012,285"/>
+<area shape="rect" id="node5" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="720,208,849,235"/>
+<area shape="rect" id="node6" href="$classWaterPump.html#ac5356119ca29c80c861208cc4a31eb2f" title="Turn the pump ON. " alt="" coords="477,107,636,133"/>
+<area shape="rect" id="node7" href="$classModule.html#a1c18e93583f527d470be447a9fcd1a0b" title="Module::getSoundObject" alt="" coords="702,157,867,184"/>
+<area shape="rect" id="node8" href="$classSound.html#a038f9173934d27db8004ded6db667df6" title="Sound::playOnSound" alt="" coords="712,107,857,133"/>
+<area shape="rect" id="node9" href="$classWaterPump.html#af13332f6353f18c12a15067edc0c3ca8" title="WaterPump::updateState" alt="" coords="700,5,869,32"/>
+<area shape="rect" id="node11" href="$classSound.html#a53aa4bec2fd464c5149ca30b29b35ac1" title="Sound::playOffSound" alt="" coords="711,259,858,285"/>
+<area shape="rect" id="node13" href="$classSwitch.html#a99dd23c2bbf0b6c87d13b543a69b32a6" title="Switch::turnOn" alt="" coords="730,360,839,387"/>
+<area shape="rect" id="node15" href="$classSwitch.html#a3f10d75adaf6a110de455d1f7bb49fc0" title="Switch::turnOff" alt="" coords="729,461,840,488"/>
+</map>

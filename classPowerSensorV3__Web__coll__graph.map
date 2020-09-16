@@ -1,0 +1,8 @@
+<map id="PowerSensorV3_Web" name="PowerSensorV3_Web">
+<area shape="rect" id="node2" href="$classPowerSensorV3.html" title="3rd party module for the PZEM004T V3.0 power sensor " alt="" coords="5,360,121,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="505,5,579,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="510,153,574,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="762,360,821,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="173,153,282,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="334,360,433,387"/>
+</map>

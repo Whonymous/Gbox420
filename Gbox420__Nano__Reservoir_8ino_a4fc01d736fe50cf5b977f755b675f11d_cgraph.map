@@ -1,0 +1,20 @@
+<map id="setup" name="setup">
+<area shape="rect" id="node2" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="1045,283,1140,310"/>
+<area shape="rect" id="node3" href="$Gbox420__Nano__Reservoir_8ino.html#a82a77128f231eac657525d7eb3014b01" title="updateTime" alt="" coords="270,131,361,158"/>
+<area shape="rect" id="node4" href="$Gbox420__Mega__Main_2Settings_8cpp.html#ad971c9812747afb3057cd98892437c13" title="if the function contains arguments with default values, they must be declared strictly before they ar..." alt="" coords="108,638,203,665"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Reservoir_8ino.html#a1db8d74ea9b2f516fe15fb41da6a22cc" title="Represents a Reservoir tote with temp,PH,water level sensors. " alt="" coords="447,613,520,639"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Reservoir_8ino.html#a56b12c2ed10250fdf9fadd1fcc243685" title="Threads. " alt="" coords="124,309,187,335"/>
+<area shape="rect" id="node16" href="$Gbox420__Nano__Reservoir_8ino.html#a03cb9c97fb260fbbb47438197797a09d" title="runFiveSec" alt="" coords="271,207,359,234"/>
+<area shape="rect" id="node17" href="$Gbox420__Nano__Reservoir_8ino.html#a56c5bdcbeb79cd2246a2c88826850ca1" title="runMinute" alt="" coords="116,461,195,487"/>
+<area shape="rect" id="node19" href="$Gbox420__Nano__Reservoir_8ino.html#a6fdedfb173bd96eaa97b31538fada6b6" title="runQuarterHour" alt="" coords="428,359,539,386"/>
+<area shape="rect" id="node7" href="$classModule.html#a496c104a3e5b7062aa562aad4a9acd53" title="Refresh queues: Refresh components inside the Module. " alt="" coords="259,309,372,335"/>
+<area shape="rect" id="node8" href="$classModule.html#ac2566489e05811d381489f96b8dd43af" title="Module::runAll" alt="" coords="431,309,536,335"/>
+<area shape="rect" id="node15" href="$classCommon.html#acd1fdd47fbf8bb490f5c6d3ab6cd8d05" title="Common::refresh_Sec" alt="" coords="591,119,744,146"/>
+<area shape="rect" id="node9" href="$classModule.html#a8b5f1ab76c7ffa4090bf825b69add821" title="Module::runFiveSec" alt="" coords="598,195,737,222"/>
+<area shape="rect" id="node11" href="$classModule.html#aa7154c7e6619f87df7cb3f1b46d96a95" title="Module::runMinute" alt="" coords="603,461,732,487"/>
+<area shape="rect" id="node13" href="$classModule.html#a08fc539b104fb79f24d603fecfcdd434" title="Module::runQuarterHour" alt="" coords="587,359,748,386"/>
+<area shape="rect" id="node10" href="$classCommon.html#a604ab36b3a1d9a5bcfcb225149c82f90" title="Common::refresh_FiveSec" alt="" coords="807,157,986,183"/>
+<area shape="rect" id="node12" href="$classCommon.html#a14e4462a94bd118028ce1d487ca0292c" title="Common::refresh_Minute" alt="" coords="812,511,981,538"/>
+<area shape="rect" id="node14" href="$classCommon.html#aa7222229739c89d441fadd6a40deff89" title="Common::refresh_QuarterHour" alt="" coords="796,359,997,386"/>
+<area shape="rect" id="node18" href="$Gbox420__Nano__Reservoir_8ino.html#aefb388f6afb97c766f549d7c809c35f9" title="getWirelessStatus" alt="" coords="251,537,380,563"/>
+</map>

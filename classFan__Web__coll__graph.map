@@ -1,0 +1,8 @@
+<map id="Fan_Web" name="Fan_Web">
+<area shape="rect" id="node2" href="$classFan.html" title="Fan controller (2 speed) " alt="" coords="5,360,49,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="433,5,507,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="438,153,502,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="690,360,749,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="101,153,210,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="262,360,361,387"/>
+</map>

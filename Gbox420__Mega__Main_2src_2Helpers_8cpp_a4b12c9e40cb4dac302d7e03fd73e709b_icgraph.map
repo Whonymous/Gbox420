@@ -1,0 +1,10 @@
+<map id="toText_onOff" name="toText_onOff">
+<area shape="rect" id="node2" href="$classLights.html#a713a28eba8f6fd8fb259bac4175ece26" title="Lights::getStatusText" alt="" coords="196,24,343,51"/>
+<area shape="rect" id="node4" href="$classAeroponics.html#ac07e1826d91c193844e2273244116ac5" title="Aeroponics::sprayStateToText" alt="" coords="170,111,369,137"/>
+<area shape="rect" id="node7" href="$classSwitch.html#a9a4db63e6dc514225d4808c75e5d0861" title="Text representation of the current state: DISABLED/IDLE/RUNNING... " alt="" coords="197,161,342,188"/>
+<area shape="rect" id="node9" href="$classWaterPump.html#a6614970b9d7d5affe2a6136cf5bcf620" title="WaterPump::getBypassOnStateText" alt="" coords="152,212,387,239"/>
+<area shape="rect" id="node3" href="$classLights__Web.html#ae85b3fa68524315070fef4c9bcdb6a12" title="Lights_Web::reportToJSON" alt="" coords="435,5,617,32"/>
+<area shape="rect" id="node5" href="$classAeroponics__NoTank__Web.html#a1248fe0a06097426645344b35aec0431" title="Aeroponics_NoTank_Web\l::websiteEvent_Refresh" alt="" coords="439,57,613,98"/>
+<area shape="rect" id="node6" href="$classAeroponics__Tank__Web.html#acf883f3ff9b052706ea0548bdf8c04aa" title="Aeroponics_Tank_Web\l::websiteEvent_Refresh" alt="" coords="445,122,607,163"/>
+<area shape="rect" id="node8" href="$classAeroponics__Tank.html#a45e50ca4e5d5a605d355d65c8cd3e5cd" title="Aeroponics_Tank::report" alt="" coords="444,188,608,215"/>
+</map>

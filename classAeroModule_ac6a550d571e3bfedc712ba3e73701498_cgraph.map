@@ -1,0 +1,15 @@
+<map id="AeroModule::AeroModule" name="AeroModule::AeroModule">
+<area shape="rect" id="node2" href="$classModule.html#a08595d2a2bd347eec39c47a3b9e770fb" title="Subscribing to the 1 sec refresh queue: Calls the refresh_Sec() method. " alt="" coords="221,37,444,64"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_2SerialLog_8cpp.html#a144a94d1be393a07bb6ec696926e2153" title="Logging. " alt="" coords="951,341,1045,368"/>
+<area shape="rect" id="node4" href="$classModule.html#a2dffaa526893d852b722cf890a6821c6" title="Subscribing to the 5 sec refresh queue: Calls the refresh_FiveSec() method. " alt="" coords="237,139,429,181"/>
+<area shape="rect" id="node5" href="$classModule.html#ac2566489e05811d381489f96b8dd43af" title="Module::runAll" alt="" coords="280,291,385,317"/>
+<area shape="rect" id="node14" href="$classModule.html#a7bbcaed333a0028cb8f80737c18627a4" title="Module::addToLog" alt="" coords="268,493,397,520"/>
+<area shape="rect" id="node6" href="$classModule.html#a496c104a3e5b7062aa562aad4a9acd53" title="Refresh queues: Refresh components inside the Module. " alt="" coords="516,291,629,317"/>
+<area shape="rect" id="node8" href="$classModule.html#a8b5f1ab76c7ffa4090bf825b69add821" title="Module::runFiveSec" alt="" coords="503,341,642,368"/>
+<area shape="rect" id="node10" href="$classModule.html#aa7154c7e6619f87df7cb3f1b46d96a95" title="Module::runMinute" alt="" coords="508,443,637,469"/>
+<area shape="rect" id="node12" href="$classModule.html#a08fc539b104fb79f24d603fecfcdd434" title="Module::runQuarterHour" alt="" coords="492,544,653,571"/>
+<area shape="rect" id="node7" href="$classCommon.html#acd1fdd47fbf8bb490f5c6d3ab6cd8d05" title="Common::refresh_Sec" alt="" coords="725,291,879,317"/>
+<area shape="rect" id="node9" href="$classCommon.html#a604ab36b3a1d9a5bcfcb225149c82f90" title="Common::refresh_FiveSec" alt="" coords="713,392,891,419"/>
+<area shape="rect" id="node11" href="$classCommon.html#a14e4462a94bd118028ce1d487ca0292c" title="Common::refresh_Minute" alt="" coords="717,493,887,520"/>
+<area shape="rect" id="node13" href="$classCommon.html#aa7222229739c89d441fadd6a40deff89" title="Common::refresh_QuarterHour" alt="" coords="701,595,903,621"/>
+</map>

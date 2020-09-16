@@ -1,0 +1,12 @@
+<map id="Lights_Web::reportToJSON" name="Lights_Web::reportToJSON">
+<area shape="rect" id="node2" href="$classCommon__Web.html#a6c2e0946d266ef2a3afe17b9869381cb" title="Common_Web::reportToJSON" alt="" coords="236,5,437,32"/>
+<area shape="rect" id="node3" href="$classLights.html#a713a28eba8f6fd8fb259bac4175ece26" title="Lights::getStatusText" alt="" coords="263,56,410,83"/>
+<area shape="rect" id="node6" href="$classLights.html#afa4faecdb030fc227f545a460bbb0ef2" title="Lights::getBrightnessText" alt="" coords="251,107,422,133"/>
+<area shape="rect" id="node7" href="$classLights.html#a8899969e0175e8242f9139c17585bcd0" title="Lights::getTimerOnOffText" alt="" coords="248,157,425,184"/>
+<area shape="rect" id="node9" href="$classLights.html#a5e2894e6935173e46c8d70f4bc7d36ed" title="Lights::getOnTimeText" alt="" coords="259,208,414,235"/>
+<area shape="rect" id="node11" href="$classLights.html#afa7da12d1c3c6646a547220f34c90bd3" title="Lights::getOffTimeText" alt="" coords="259,259,415,285"/>
+<area shape="rect" id="node4" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a4b12c9e40cb4dac302d7e03fd73e709b" title="toText_onOff" alt="" coords="517,56,616,83"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#aa13f229d47e2d68e33f7b62d9ccdb15d" title="Text formating. " alt="" coords="537,107,596,133"/>
+<area shape="rect" id="node8" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a901734aff517f29931a27fd8568d8e9e" title="toText_enabledDisabled" alt="" coords="485,157,648,184"/>
+<area shape="rect" id="node10" href="$Gbox420__Mega__Main_2src_2Helpers_8cpp.html#a378f2588baecb0092cfce601fbcedd1d" title="toText_time" alt="" coords="521,233,612,260"/>
+</map>

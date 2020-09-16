@@ -1,0 +1,8 @@
+<map id="Lights_Web" name="Lights_Web">
+<area shape="rect" id="node2" href="$classLights.html" title="Lights" alt="" coords="5,360,63,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="446,5,521,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="451,153,515,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="703,360,762,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="114,153,223,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="275,360,374,387"/>
+</map>

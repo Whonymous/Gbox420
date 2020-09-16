@@ -1,0 +1,7 @@
+<map id="RollingAverage::resetAverage" name="RollingAverage::resetAverage">
+<area shape="rect" id="node2" href="$classPressureSensor.html#af4ea57467bb0d6ae89b0f1a65c7863da" title="PressureSensor::setOffset" alt="" coords="248,5,425,32"/>
+<area shape="rect" id="node4" href="$classPressureSensor.html#a5c46cbf770e053a41dad7ee63549ae7e" title="PressureSensor::setRatio" alt="" coords="251,56,423,83"/>
+<area shape="rect" id="node5" href="$classModuleSkeleton__Web.html#a2946ad7edbf3aa43aa462a0c5350cb84" title="ModuleSkeleton_Web\l::websiteEvent_Button" alt="" coords="259,107,414,149"/>
+<area shape="rect" id="node6" href="$classDEVModule__Web.html#af53c52f8cc8d23d53fc1f652b740279a" title="DEVModule_Web::refresh\l_QuarterHour" alt="" coords="249,173,424,214"/>
+<area shape="rect" id="node3" href="$classPressureSensor__Web.html#a0529277efb48cb5def4d6271d45a508f" title="PressureSensor_Web\l::websiteEvent_Field" alt="" coords="473,23,623,65"/>
+</map>

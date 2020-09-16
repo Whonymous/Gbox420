@@ -1,0 +1,8 @@
+<map id="LightSensor_Web" name="LightSensor_Web">
+<area shape="rect" id="node2" href="$classLightSensor.html" title="LM393 Light sensor. " alt="" coords="5,360,96,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="479,5,553,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="484,153,548,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="736,360,795,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="147,153,256,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="308,360,407,387"/>
+</map>

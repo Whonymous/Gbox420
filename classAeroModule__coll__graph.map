@@ -1,0 +1,12 @@
+<map id="AeroModule" name="AeroModule">
+<area shape="rect" id="node2" href="$classCommon.html" title="Common" alt="" coords="387,5,461,32"/>
+<area shape="rect" id="node3" href="$classModule.html" title="Module" alt="" coords="392,153,456,180"/>
+<area shape="rect" id="node4" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="81,257,140,284"/>
+<area shape="rect" id="node6" href="$classAeroponics.html" title="Aeroponics tote virtual parent class. " alt="" coords="718,347,805,373"/>
+<area shape="rect" id="node7" href="$classPressureSensor.html" title="Pressure sensor. " alt="" coords="547,257,661,284"/>
+<area shape="rect" id="node9" href="$classWaterPump.html" title="WaterPump" alt="" coords="839,257,929,284"/>
+<area shape="rect" id="node10" href="$classSwitch.html" title="Switch class: Represents and electronic switch like a Relay or MOSFET. " alt="" coords="938,153,1001,180"/>
+<area shape="rect" id="node5" href="$classAeroponics__NoTank.html" title="Aeroponics tote without pressure tank. " alt="" coords="535,436,675,463"/>
+<area shape="rect" id="node11" href="$classAeroponics__Tank.html" title="Aeroponics tote with pressure tank. " alt="" coords="700,436,823,463"/>
+<area shape="rect" id="node8" href="$classRollingAverage.html" title="Rolling average tracker for smoothing sensor readings. Supports float and int values only..." alt="" coords="514,153,625,180"/>
+</map>

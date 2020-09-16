@@ -1,0 +1,7 @@
+<map id="Sound_Web" name="Sound_Web">
+<area shape="rect" id="node2" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="94,105,152,131"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="220,217,284,244"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="215,5,290,32"/>
+<area shape="rect" id="node5" href="$classCommon__Web.html" title="Common_Web" alt="" coords="448,217,558,244"/>
+<area shape="rect" id="node6" href="$classModule__Web.html" title="Module_Web" alt="" coords="203,424,302,451"/>
+</map>

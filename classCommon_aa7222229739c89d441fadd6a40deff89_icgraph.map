@@ -1,0 +1,22 @@
+<map id="Common::refresh_QuarterHour" name="Common::refresh_QuarterHour">
+<area shape="rect" id="node2" href="$classModule.html#a08fc539b104fb79f24d603fecfcdd434" title="Module::runQuarterHour" alt="" coords="271,224,433,251"/>
+<area shape="rect" id="node11" href="$classModule__Web.html#a89d99a5091a144203cc705deda0c0426" title="Module_Web::runQuarterHour" alt="" coords="255,275,449,301"/>
+<area shape="rect" id="node19" href="$classMainModule.html#a42a84defbce6d6554057f49484219b7b" title="MainModule::refresh\l_QuarterHour" alt="" coords="282,326,422,367"/>
+<area shape="rect" id="node20" href="$classModuleSkeleton.html#ade7e1fee2417a8e23a1f8f31502045ab" title="ModuleSkeleton::refresh\l_QuarterHour" alt="" coords="271,391,433,433"/>
+<area shape="rect" id="node21" href="$classDEVModule__Web.html#af53c52f8cc8d23d53fc1f652b740279a" title="DEVModule_Web::refresh\l_QuarterHour" alt="" coords="265,457,439,498"/>
+<area shape="rect" id="node3" href="$classModule.html#ac2566489e05811d381489f96b8dd43af" title="Module::runAll" alt="" coords="514,81,619,108"/>
+<area shape="rect" id="node10" href="$Gbox420__Nano__Aero_8ino.html#a6fdedfb173bd96eaa97b31538fada6b6" title="runQuarterHour" alt="" coords="971,140,1081,167"/>
+<area shape="rect" id="node4" href="$classModule.html#a496c104a3e5b7062aa562aad4a9acd53" title="Refresh queues: Refresh components inside the Module. " alt="" coords="747,5,860,32"/>
+<area shape="rect" id="node7" href="$classAeroModule.html#ac6a550d571e3bfedc712ba3e73701498" title="AeroModule::AeroModule" alt="" coords="719,56,887,83"/>
+<area shape="rect" id="node8" href="$classHempyModule.html#a46b23ffbe28aa4dd39e080c7465de74a" title="HempyModule::HempyModule" alt="" coords="704,107,903,133"/>
+<area shape="rect" id="node9" href="$classReservoirModule.html#ab8bca3ce3768c3d800d21806d76d3aeb" title="ReservoirModule::Reservoir\lModule" alt="" coords="711,158,895,199"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_8ino.html#a56b12c2ed10250fdf9fadd1fcc243685" title="Threads. " alt="" coords="995,48,1057,75"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Aero_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1129,95,1184,121"/>
+<area shape="rect" id="node12" href="$Gbox420__Mega__Main_8ino.html#a6fdedfb173bd96eaa97b31538fada6b6" title="runQuarterHour" alt="" coords="511,275,622,301"/>
+<area shape="rect" id="node14" href="$classModule__Web.html#a1aa0d196cbc4ad14f561e1334a0ae98f" title="Module_Web::runAll" alt="" coords="497,384,636,411"/>
+<area shape="rect" id="node13" href="$Gbox420__Mega__Main_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="776,275,831,301"/>
+<area shape="rect" id="node15" href="$classMainModule.html#a3a918c8c080f2a810b64e297cf1ce994" title="Only for PZEM004T V3.0. " alt="" coords="718,325,889,352"/>
+<area shape="rect" id="node16" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="733,377,873,418"/>
+<area shape="rect" id="node17" href="$classDEVModule__Web.html#a3b6305f0ac608f03bf1d4e78183f1eac" title="Only for PZEM004T V3.0. " alt="" coords="684,443,923,469"/>
+<area shape="rect" id="node18" href="$classDEVModule__Web.html#ac8ea37f602295f12c39d9849aab8e512" title="DEVModule_Web::refresh\l_FiveSec" alt="" coords="716,494,891,535"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="Common::refresh_FiveSec" name="Common::refresh_FiveSec">
+<area shape="rect" id="node2" href="$classModule.html#a8b5f1ab76c7ffa4090bf825b69add821" title="Module::runFiveSec" alt="" coords="257,173,395,199"/>
+<area shape="rect" id="node11" href="$classDHTSensor.html#a51d27643ecdaf6bd01511f4335cb8633" title="DHTSensor::refresh\l_FiveSec" alt="" coords="257,224,395,265"/>
+<area shape="rect" id="node12" href="$classLightSensor.html#ae087c66c4c5c3e4d7f393164969f2efe" title="LightSensor::refresh\l_FiveSec" alt="" coords="257,289,395,331"/>
+<area shape="rect" id="node13" href="$classPowerSensor.html#a429859d5aa4b72bac2002cda95ac5b21" title="constructor " alt="" coords="252,355,400,396"/>
+<area shape="rect" id="node14" href="$classPowerSensorV3.html#a1bf23a2cfa924933a5e265dc3a337ec4" title="constructor " alt="" coords="244,420,408,461"/>
+<area shape="rect" id="node15" href="$classModule__Web.html#a39cb72b8b1193e6a7d27d4ff414e07c6" title="Module_Web::runFiveSec" alt="" coords="240,486,412,513"/>
+<area shape="rect" id="node20" href="$classMainModule.html#ad8bcc57ac967efafd3a854ba09828c72" title="MainModule::refresh\l_FiveSec" alt="" coords="720,529,860,571"/>
+<area shape="rect" id="node22" href="$classDEVModule__Web.html#ac8ea37f602295f12c39d9849aab8e512" title="DEVModule_Web::refresh\l_FiveSec" alt="" coords="703,595,877,636"/>
+<area shape="rect" id="node23" href="$classAeroModule__Web.html#a027b43fe0d9f242b23b69ea60437e765" title="AeroModule_Web::refresh\l_FiveSec" alt="" coords="239,639,413,680"/>
+<area shape="rect" id="node24" href="$classHempyModule__Web.html#a3fa3e94ba18a4d88c201c546cbeaa53f" title="HempyModule_Web::refresh\l_FiveSec" alt="" coords="232,704,420,745"/>
+<area shape="rect" id="node25" href="$classReservoirModule__Web.html#a9a11d3b4d046ef84d92917169c5db8da" title="ReservoirModule_Web\l::refresh_FiveSec" alt="" coords="249,769,403,811"/>
+<area shape="rect" id="node27" href="$classPressureSensor.html#a9948098b4c429144f4a2d865a3bf520e" title="PressureSensor::refresh\l_FiveSec" alt="" coords="245,835,407,876"/>
+<area shape="rect" id="node28" href="$classAeroModule.html#a74b231207f7d3857696acec8432f4322" title="AeroModule::refresh\l_FiveSec" alt="" coords="257,900,395,941"/>
+<area shape="rect" id="node29" href="$classHempyBucket.html#ad9a11119072abf39b332556936938afa" title="HempyBucket::refresh\l_FiveSec" alt="" coords="249,965,403,1007"/>
+<area shape="rect" id="node30" href="$classHempyModule.html#a46b60e0abf225624dc7caba51b40dafc" title="HempyModule::refresh\l_FiveSec" alt="" coords="249,1031,403,1072"/>
+<area shape="rect" id="node31" href="$classPHSensor.html#ae5cb84e8da2e2d09cf8e8a840693cc25" title="PHSensor::refresh_FiveSec" alt="" coords="233,1097,419,1123"/>
+<area shape="rect" id="node32" href="$classWaterTempSensor.html#ad4acc0a440922117b3de371046d483a5" title="constructor " alt="" coords="237,1148,415,1189"/>
+<area shape="rect" id="node33" href="$classReservoirModule.html#a28480be2b512eb00e46824a6da335d53" title="ReservoirModule::refresh\l_FiveSec" alt="" coords="242,1213,410,1255"/>
+<area shape="rect" id="node34" href="$classDistanceSensor.html#a0ea597e9c12947d238d7eda0dcef8e09" title="DistanceSensor::refresh\l_FiveSec" alt="" coords="245,1279,407,1320"/>
+<area shape="rect" id="node35" href="$classModuleSkeleton.html#a5c9845eec6ca7fbaac1521f4b021712a" title="ModuleSkeleton::refresh\l_FiveSec" alt="" coords="245,1344,407,1385"/>
+<area shape="rect" id="node3" href="$classModule.html#ac2566489e05811d381489f96b8dd43af" title="Module::runAll" alt="" coords="493,97,598,123"/>
+<area shape="rect" id="node10" href="$Gbox420__Nano__Aero_8ino.html#a03cb9c97fb260fbbb47438197797a09d" title="runFiveSec" alt="" coords="957,173,1045,199"/>
+<area shape="rect" id="node4" href="$classModule.html#a496c104a3e5b7062aa562aad4a9acd53" title="Refresh queues: Refresh components inside the Module. " alt="" coords="733,71,847,98"/>
+<area shape="rect" id="node7" href="$classAeroModule.html#ac6a550d571e3bfedc712ba3e73701498" title="AeroModule::AeroModule" alt="" coords="706,122,874,149"/>
+<area shape="rect" id="node8" href="$classHempyModule.html#a46b23ffbe28aa4dd39e080c7465de74a" title="HempyModule::HempyModule" alt="" coords="691,173,889,199"/>
+<area shape="rect" id="node9" href="$classReservoirModule.html#ab8bca3ce3768c3d800d21806d76d3aeb" title="ReservoirModule::Reservoir\lModule" alt="" coords="698,5,882,47"/>
+<area shape="rect" id="node5" href="$Gbox420__Nano__Aero_8ino.html#a56b12c2ed10250fdf9fadd1fcc243685" title="Threads. " alt="" coords="970,97,1033,123"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Aero_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1093,135,1148,162"/>
+<area shape="rect" id="node16" href="$Gbox420__Mega__Main_8ino.html#a03cb9c97fb260fbbb47438197797a09d" title="runFiveSec" alt="" coords="501,406,589,433"/>
+<area shape="rect" id="node18" href="$classModule__Web.html#a1aa0d196cbc4ad14f561e1334a0ae98f" title="Module_Web::runAll" alt="" coords="476,486,615,513"/>
+<area shape="rect" id="node17" href="$Gbox420__Mega__Main_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="763,377,817,403"/>
+<area shape="rect" id="node19" href="$classMainModule.html#a3a918c8c080f2a810b64e297cf1ce994" title="Only for PZEM004T V3.0. " alt="" coords="705,427,875,454"/>
+<area shape="rect" id="node21" href="$classDEVModule__Web.html#a3b6305f0ac608f03bf1d4e78183f1eac" title="Only for PZEM004T V3.0. " alt="" coords="671,478,909,505"/>
+<area shape="rect" id="node26" href="$classReservoirModule__Web.html#a3a3bd1a24f5df21cac157a726d65f7fe" title="not used " alt="" coords="468,769,623,811"/>
+</map>

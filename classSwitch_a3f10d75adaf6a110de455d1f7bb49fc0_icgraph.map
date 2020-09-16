@@ -1,0 +1,8 @@
+<map id="Switch::turnOff" name="Switch::turnOff">
+<area shape="rect" id="node2" href="$classAeroponics__Tank.html#a7436a7c296a4c0899c87e5a8554b5bdc" title="Aeroponics_Tank::sprayOff" alt="" coords="164,56,345,83"/>
+<area shape="rect" id="node6" href="$classSwitch.html#aad2ade9d02d22212f507571ea0fe9218" title="Switch::Switch" alt="" coords="199,107,310,133"/>
+<area shape="rect" id="node7" href="$classSwitch.html#a7783960e9e4926350b20ce0002d5c489" title="invert the current state " alt="" coords="211,157,298,184"/>
+<area shape="rect" id="node3" href="$classAeroponics__Tank.html#a9b1c9377aec2a453e4562bca5ae7afa2" title="Aeroponics_Tank::refresh_Sec" alt="" coords="395,5,597,32"/>
+<area shape="rect" id="node4" href="$classAeroModule.html#a6465def68343e695ae91ba01c714858d" title="AeroModule::processCommand" alt="" coords="393,56,599,83"/>
+<area shape="rect" id="node5" href="$classAeroponics__Tank__Web.html#a2dea9353cb1709b51f496d8d0caa928e" title="Aeroponics_Tank_Web\l::websiteEvent_Button" alt="" coords="417,107,575,149"/>
+</map>

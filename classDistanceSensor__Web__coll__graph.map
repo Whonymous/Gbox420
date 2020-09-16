@@ -1,0 +1,8 @@
+<map id="DistanceSensor_Web" name="DistanceSensor_Web">
+<area shape="rect" id="node2" href="$classDistanceSensor.html" title="DistanceSensor" alt="" coords="84,360,198,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="248,5,322,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="253,153,317,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="582,360,641,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="64,153,173,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="245,360,344,387"/>
+</map>

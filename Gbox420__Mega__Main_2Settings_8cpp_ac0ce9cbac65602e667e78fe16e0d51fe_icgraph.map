@@ -1,0 +1,13 @@
+<map id="saveSettings" name="saveSettings">
+<area shape="rect" id="node2" href="$Gbox420__Mega__Main_8ino.html#a51e7fb049f4e601d609570e25bc10118" title="buttonPressCallback" alt="" coords="420,42,563,69"/>
+<area shape="rect" id="node5" href="$Gbox420__Mega__Main_8ino.html#ae784bf97b35a03486279475151a20abd" title="setFieldCallback" alt="" coords="432,93,551,119"/>
+<area shape="rect" id="node6" href="$Gbox420__Nano__Reservoir_2Settings_8h.html#ad971c9812747afb3057cd98892437c13" title="if the function contains arguments with default values, they must be declared strictly before they ar..." alt="" coords="444,143,539,170"/>
+<area shape="rect" id="node7" href="$Gbox420__Nano__Reservoir_2Settings_8h.html#ac6ea025bbd7c07eb499581c99b13ed58" title="restoreDefaults" alt="" coords="207,42,317,69"/>
+<area shape="rect" id="node8" href="$classAeroModule.html#a6465def68343e695ae91ba01c714858d" title="AeroModule::processCommand" alt="" coords="159,194,365,221"/>
+<area shape="rect" id="node9" href="$classHempyModule.html#a5578f429742c4685b52d599409da88ea" title="HempyModule::processCommand" alt="" coords="152,245,372,271"/>
+<area shape="rect" id="node10" href="$classReservoirModule.html#ae24b22ae6329eca6b7c5ef7d25461318" title="ReservoirModule::process\lCommand" alt="" coords="175,296,349,337"/>
+<area shape="rect" id="node3" href="$Gbox420__Mega__Main_8ino.html#af141387cf1674081eca9db00c3c869ab" title="resetWebServer" alt="" coords="611,93,727,119"/>
+<area shape="rect" id="node4" href="$Gbox420__Mega__Main_8ino.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="775,118,829,145"/>
+<area shape="rect" id="node11" href="$Gbox420__Nano__Reservoir_8ino.html#a16c49958e5626b4e9844870a44edf469" title="Wireless communication. " alt="" coords="432,303,551,330"/>
+<area shape="rect" id="node12" href="$Gbox420__Nano__Reservoir_8ino.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="645,303,692,330"/>
+</map>

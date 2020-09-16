@@ -1,0 +1,8 @@
+<map id="WaterLevelSensor_Web" name="WaterLevelSensor_Web">
+<area shape="rect" id="node2" href="$classWaterLevelSensor.html" title="Contactless water sensor array (4 levels) " alt="" coords="76,360,205,387"/>
+<area shape="rect" id="node3" href="$classCommon.html" title="Common" alt="" coords="247,5,322,32"/>
+<area shape="rect" id="node4" href="$classModule.html" title="Module" alt="" coords="252,153,316,180"/>
+<area shape="rect" id="node5" href="$classSound.html" title="Sound feedback buzzer. " alt="" coords="582,360,640,387"/>
+<area shape="rect" id="node6" href="$classCommon__Web.html" title="Common_Web" alt="" coords="63,153,172,180"/>
+<area shape="rect" id="node7" href="$classModule__Web.html" title="Module_Web" alt="" coords="248,360,347,387"/>
+</map>

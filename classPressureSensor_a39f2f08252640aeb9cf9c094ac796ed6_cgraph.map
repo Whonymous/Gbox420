@@ -1,0 +1,3 @@
+<map id="PressureSensor::getPressure" name="PressureSensor::getPressure">
+<area shape="rect" id="node2" href="$classRollingAverage.html#ada0ea15c7152230f9433329fba92d3f8" title="by default return the average, if false is passed return the latest reading " alt="" coords="247,5,412,32"/>
+</map>

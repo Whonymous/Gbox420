@@ -1,0 +1,22 @@
+<map id="Module_Web::addToReportQueue" name="Module_Web::addToReportQueue">
+<area shape="rect" id="node2" href="$classDHTSensor__Web.html#a422e637e9933551dd4bd85609d1d20bd" title="DHTSensor_Web::DHTSensor_Web" alt="" coords="287,5,523,32"/>
+<area shape="rect" id="node3" href="$classFan__Web.html#a54f9ab383ef943d6b7ffc770b2220024" title="Fan_Web::Fan_Web" alt="" coords="334,56,477,83"/>
+<area shape="rect" id="node4" href="$classLights__Web.html#acaf75aed6b86ca10828c967049c59383" title="Lights_Web::Lights_Web" alt="" coords="321,107,489,133"/>
+<area shape="rect" id="node5" href="$classLightSensor__Web.html#a3ebeb8eb8a73bc3d9bc61dc31f668280" title="LightSensor_Web::LightSensor_Web" alt="" coords="287,157,523,184"/>
+<area shape="rect" id="node6" href="$classPowerSensor__Web.html#a7557ab09526b936ca15b5dc4ecb6f1ef" title="PowerSensor_Web::PowerSensor_Web" alt="" coords="278,208,533,235"/>
+<area shape="rect" id="node7" href="$classPowerSensorV3__Web.html#ad7ac3b7dbf2e4cef928121ad92f7f528" title="PowerSensorV3_Web::\lPowerSensorV3_Web" alt="" coords="326,259,485,301"/>
+<area shape="rect" id="node8" href="$classAeroModule__Web.html#ab428de02336385c258daad686aa431f0" title="AeroModule_Web::AeroModule_Web" alt="" coords="287,325,523,352"/>
+<area shape="rect" id="node9" href="$classHempyModule__Web.html#a00b9e646494d3540f37dee684561259a" title="HempyModule_Web::HempyModule_Web" alt="" coords="272,376,539,403"/>
+<area shape="rect" id="node10" href="$classMainModule.html#a3a918c8c080f2a810b64e297cf1ce994" title="Only for PZEM004T V3.0. " alt="" coords="320,427,491,453"/>
+<area shape="rect" id="node11" href="$classReservoirModule__Web.html#a349a39dca681c59248bb463e0d6eeff7" title="ReservoirModule_Web\l::ReservoirModule_Web" alt="" coords="324,478,487,519"/>
+<area shape="rect" id="node12" href="$classAeroponics__NoTank__Web.html#a0efd6e50cd3203adaaf1cd6a5c21e6aa" title="Aeroponics_NoTank_Web\l::Aeroponics_NoTank_Web" alt="" coords="314,543,497,585"/>
+<area shape="rect" id="node13" href="$classAeroponics__Tank__Web.html#acc3a7b0658cdb74262a14b71809185c6" title="Aeroponics_Tank_Web\l::Aeroponics_Tank_Web" alt="" coords="323,609,488,650"/>
+<area shape="rect" id="node14" href="$classDistanceSensor__Web.html#a138e1b0850163ae5282313e5c45580e4" title="DistanceSensor_Web\l::DistanceSensor_Web" alt="" coords="327,674,484,715"/>
+<area shape="rect" id="node15" href="$classHempyBucket__Web.html#af942e90948040b5bc9f87f6a8519d749" title="HempyBucket_Web::HempyBucket_Web" alt="" coords="273,740,537,767"/>
+<area shape="rect" id="node16" href="$classModuleSkeleton__Web.html#aec8ecee521cba264f403e7ff08d178d8" title="ModuleSkeleton_Web\l::ModuleSkeleton_Web" alt="" coords="327,791,484,833"/>
+<area shape="rect" id="node17" href="$classPHSensor__Web.html#a1620625830d29822b30407d064d207c5" title="PHSensor_Web::PHSensor_Web" alt="" coords="296,857,515,884"/>
+<area shape="rect" id="node18" href="$classPressureSensor__Web.html#a5e59489e44f997ccf238b24af8b4e0fa" title="PressureSensor_Web\l::PressureSensor_Web" alt="" coords="327,909,484,950"/>
+<area shape="rect" id="node19" href="$classWaterLevelSensor__Web.html#a822380f4ecf477d16e6d535edff71848" title="WaterLevelSensor_Web\l::WaterLevelSensor_Web" alt="" coords="320,974,491,1015"/>
+<area shape="rect" id="node20" href="$classWaterTempSensor__Web.html#ae52b9b96ac5a1c38b4392df32fe4f2c8" title="WaterTempSensor_Web\l::WaterTempSensor_Web" alt="" coords="319,1039,492,1081"/>
+<area shape="rect" id="node21" href="$classWeightSensor__Web.html#a8528c52192e9e5c4859ce61099dd9c33" title="WeightSensor_Web::Weight\lSensor_Web" alt="" coords="312,1105,499,1146"/>
+</map>
